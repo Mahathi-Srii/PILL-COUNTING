@@ -1,0 +1,7 @@
+roboflow==1.0.1
+ultralytics
+pillow-avif-plugin
+torch
+torchvision
+torchaudio
+ipykernel
