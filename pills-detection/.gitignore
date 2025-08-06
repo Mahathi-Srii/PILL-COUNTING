@@ -1,0 +1,8 @@
+data/
+datasets/
+raw-data/
+runs/
+.ipynb_checkpoints
+yolov8n.pt
+yolov8s.pt
+Prozac_pills.jpg
